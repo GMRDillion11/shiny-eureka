@@ -1,15 +1,26 @@
-# Password Generator GUI
+# Password Manager (with GUI)
 
-A simple Python password generator with a graphical interface using Tkinter.
+This is a simple Python GUI-based password manager that allows you to:
 
-## Features
-- Set custom password length
-- Includes letters, digits, and symbols
-- User-friendly interface
-- saves generated passwords
+- Generate strong passwords
+- Tag and save them to a history file
+- View all saved passwords
+- Search passwords by tag
+- Check password strength
 
 ## Requirements
+
 - Python 3.x
 
-## Usage
-An executable file (for windows only)
+## How to Run
+
+1. Download this repo:
+   - Click the green **Code** button
+   - Select **Download ZIP**
+   - Extract the ZIP file
+
+2. Open a terminal or double-click the `password_manager.py` file to run it (if Python is properly associated).
+
+3. Or run it manually:
+```bash
+python password_manager.py
