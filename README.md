@@ -12,4 +12,5 @@ A simple Python password generator with a graphical interface using Tkinter.
 - Python 3.x
 
 ## Usage
+Download the exe file
 An executable file (for windows only)
