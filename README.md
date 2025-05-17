@@ -19,8 +19,8 @@ This is a simple Python GUI-based password manager that allows you to:
    - Select **Download ZIP**
    - Extract the ZIP file
 
-2. Open a terminal or double-click the `password_manager.py` file to run it (if Python is properly associated).
+2. Open a terminal or double-click the `password_gui.py` file to run it (if Python is properly associated).
 
 3. Or run it manually:
 ```bash
-python password_manager.py
+python password_gui.py
